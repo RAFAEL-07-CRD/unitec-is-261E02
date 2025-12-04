@@ -9,3 +9,4 @@ C:\Users\rossg\OneDrive\Escritorio\Project\src\Application\obj\Debug\net9.0\Appl
 C:\Users\rossg\OneDrive\Escritorio\Project\src\Application\obj\Debug\net9.0\refint\Application.dll
 C:\Users\rossg\OneDrive\Escritorio\Project\src\Application\obj\Debug\net9.0\Application.pdb
 C:\Users\rossg\OneDrive\Escritorio\Project\src\Application\obj\Debug\net9.0\ref\Application.dll
+C:\Users\rossg\OneDrive\Escritorio\Project\src\Application\obj\Debug\net9.0\Application.sourcelink.json

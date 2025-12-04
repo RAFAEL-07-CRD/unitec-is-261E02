@@ -31,3 +31,4 @@ C:\Users\rossg\OneDrive\Escritorio\Project\src\WebApp\obj\Debug\net9.0\refint\We
 C:\Users\rossg\OneDrive\Escritorio\Project\src\WebApp\obj\Debug\net9.0\WebApp.pdb
 C:\Users\rossg\OneDrive\Escritorio\Project\src\WebApp\obj\Debug\net9.0\WebApp.genruntimeconfig.cache
 C:\Users\rossg\OneDrive\Escritorio\Project\src\WebApp\obj\Debug\net9.0\ref\WebApp.dll
+C:\Users\rossg\OneDrive\Escritorio\Project\src\WebApp\obj\Debug\net9.0\WebApp.sourcelink.json

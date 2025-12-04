@@ -100,3 +100,4 @@ C:\Users\rossg\OneDrive\Escritorio\Project\test\Application.UnitTest\obj\Debug\n
 C:\Users\rossg\OneDrive\Escritorio\Project\test\Application.UnitTest\obj\Debug\net9.0\Application.UnitTest.pdb
 C:\Users\rossg\OneDrive\Escritorio\Project\test\Application.UnitTest\obj\Debug\net9.0\Application.UnitTest.genruntimeconfig.cache
 C:\Users\rossg\OneDrive\Escritorio\Project\test\Application.UnitTest\obj\Debug\net9.0\ref\Application.UnitTest.dll
+C:\Users\rossg\OneDrive\Escritorio\Project\test\Application.UnitTest\obj\Debug\net9.0\Application.UnitTest.sourcelink.json

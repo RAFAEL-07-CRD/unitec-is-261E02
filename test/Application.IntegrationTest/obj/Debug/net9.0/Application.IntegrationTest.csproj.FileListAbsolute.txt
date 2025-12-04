@@ -100,3 +100,4 @@ C:\Users\rossg\OneDrive\Escritorio\Project\test\Application.IntegrationTest\obj\
 C:\Users\rossg\OneDrive\Escritorio\Project\test\Application.IntegrationTest\obj\Debug\net9.0\Application.IntegrationTest.pdb
 C:\Users\rossg\OneDrive\Escritorio\Project\test\Application.IntegrationTest\obj\Debug\net9.0\Application.IntegrationTest.genruntimeconfig.cache
 C:\Users\rossg\OneDrive\Escritorio\Project\test\Application.IntegrationTest\obj\Debug\net9.0\ref\Application.IntegrationTest.dll
+C:\Users\rossg\OneDrive\Escritorio\Project\test\Application.IntegrationTest\obj\Debug\net9.0\Application.IntegrationTest.sourcelink.json
