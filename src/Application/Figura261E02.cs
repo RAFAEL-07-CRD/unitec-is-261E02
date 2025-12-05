@@ -1,6 +1,6 @@
 namespace Application;
 
-public class Figura261E10
+public class Figura261E02
 {
     public static double Perimetro(double lado1, double lado2)
     {

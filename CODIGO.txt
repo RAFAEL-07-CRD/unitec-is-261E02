@@ -30,9 +30,9 @@ public class IntegrationTestApplication
 public void TestVolumen(double lado1, double lado2, double altura, double volumen)
 {
 //| Arrange – Set up
-double area = Figura261E10.Area(lado1, lado2);
+double area = Figura261E02.Area(lado1, lado2);
 //| Act – Perform
-double resultado = Figura261E10.Volumen(area, altura);
+double resultado = Figura261E02.Volumen(area, altura);
 //| Assert – Verify
 Assert.Equal(volumen, resultado, precision:5);
 }

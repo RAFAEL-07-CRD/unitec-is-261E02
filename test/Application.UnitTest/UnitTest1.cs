@@ -29,7 +29,7 @@ namespace Application.UnitTest
  public void TestPerimetro(double lado1, double lado2, double esperado)
  {
 
- double actual = Figura261E10.Perimetro(lado1, lado2); 
+ double actual = Figura261E02.Perimetro(lado1, lado2); 
 
  Assert.Equal(esperado, actual,3 );
  }
@@ -58,7 +58,7 @@ namespace Application.UnitTest
         public void TestArea(double lado1, double lado2, double esperado)
         {
             
-            double actual = Figura261E10.Area(lado1, lado2);
+            double actual = Figura261E02.Area(lado1, lado2);
             // Assert – Verify
             Assert.Equal(esperado, actual, 6);
         }
@@ -91,7 +91,7 @@ namespace Application.UnitTest
         public void TestVolumen(double areaBase, double altura, double esperado)
         {
             
-            double actual = Figura261E10.Volumen(areaBase, altura);
+            double actual = Figura261E02.Volumen(areaBase, altura);
             // Assert – Verify
             Assert.Equal(esperado, actual, 6);
         }
